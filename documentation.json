@@ -1,0 +1,20 @@
+[
+    {
+      "keywords": ["set up", "source", "segment"],
+      "response": "To set up a new source in Segment, go to the Segment dashboard, click 'Sources', and follow the instructions."
+    },
+    {
+      "keywords": ["create", "user profile", "mparticle"],
+      "response": "To create a user profile in mParticle, use the Profiles API and refer to the developer docs for integration."
+    },
+    {
+      "keywords": ["build", "audience", "lytics"],
+      "response": "In Lytics, go to the 'Audiences' tab, click 'Create New Audience', and configure your filters."
+    },
+    {
+      "keywords": ["integrate", "data", "zeotap"],
+      "response": "For data integration in Zeotap, refer to the 'Integration' section in the documentation and follow the API guidelines."
+    }
+  ]
+  
+  
